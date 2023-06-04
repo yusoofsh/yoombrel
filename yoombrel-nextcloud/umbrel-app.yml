@@ -1,5 +1,5 @@
 manifestVersion: 1.1
-id: nextcloud
+id: yoombrel-nextcloud
 category: Files
 name: Nextcloud
 version: "26.0.2"
@@ -25,9 +25,6 @@ description: >-
 
   Note: After logging in to Nextcloud please change the password to something secure before sharing the address with anyone.
 releaseNotes: >-
-  ⚠️ This update may take a while. It migrates Nextcloud from v22 to v25 and can take several minutes depending on your Internet connection speed, your server hardware, and how many files you have stored in Nextcloud.
-
-
   - Full changelog can be found here: https://nextcloud.com/changelog/
 developer: Nextcloud GmbH
 website: https://nextcloud.com
