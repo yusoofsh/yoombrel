@@ -2,7 +2,7 @@ manifestVersion: 1.1
 id: yoombrel-nextcloud
 category: Files
 name: Nextcloud
-version: "27.0.0"
+version: "latest"
 icon: https://github.com/getumbrel/umbrel-apps-gallery/raw/master/nextcloud/icon.svg
 tagline: Productivity platform that keeps you in control
 description: >-
